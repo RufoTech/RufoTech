@@ -49,7 +49,7 @@
 <!-- TECH STACK (Luxury Themed Icons) -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺
 
-> *Click to expand &nbsp;▸&nbsp;* **Mobile Development**
+> *💎 Mobile Development*
 
 <details open>
 <summary><b>📱 Mobile</b></summary>
@@ -61,7 +61,7 @@
 </p>
 </details>
 
-> *▸&nbsp;* **Frontend**
+> *💎 Frontend*
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
@@ -73,7 +73,7 @@
 </p>
 </details>
 
-> *▸&nbsp;* **Backend & Database**
+> *💎 Backend & Database*
 
 <details open>
 <summary><b>⚙️ Backend & Database</b></summary>
@@ -85,7 +85,7 @@
 </p>
 </details>
 
-> *▸&nbsp;* **DevOps & Tools**
+> *💎 DevOps & Tools*
 
 <details open>
 <summary><b>🛠 DevOps & Tools</b></summary>
@@ -109,15 +109,26 @@
 
 <br/>
 
-<!-- STREAK & CONTRIBUTION SNAKE -->
+<!-- STREAK & CONTRIBUTION SNAKE (Directly embedded, no extra file needed) -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25px"> 𝚂𝚃𝚁𝙴𝙰𝙺 & 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴
+
 <div align="center">
+  
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&border=BF953F&stroke=BF953F&ring=BF953F&fire=F5D061&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F7C815&sideLabels=F7C815&dates=BF953F" alt="GitHub Streak" />
+  
   <br/><br/>
+  
+  <!-- Contribution Snake - Directly from Platane/snk with dark theme -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
+  
+  <!-- Alternative: Animated Snake from another source (if Platane doesn't work) -->
+  <!-- <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%" /> -->
+  
 </div>
 
 <br/>
@@ -181,13 +192,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BF953F,F5D061,F9F5E7,E6C27A&height=100&section=footer" width="100%" alt="Footer Wave"/>
   <p>
     <samp>
-      <i>“Simplicity is the ultimate sophistication.”</i> – Leonardo da Vinci
+      <i>"Simplicity is the ultimate sophistication."</i> – Leonardo da Vinci
     </samp>
   </p>
 </div>
-
-<!-- 
-  ╔══════════════════════════════════════════════════════╗
-  ║        End of Lux README – Designed by YOU          ║
-  ╚══════════════════════════════════════════════════════╝
--->
