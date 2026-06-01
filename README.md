@@ -35,12 +35,7 @@
   <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif"/>
   
   <p align="left">
-    🚀 Tutkulu bir <strong>Full Stack & Android Developer</strong><br/>
-    🎯 Temiz kod, lüks UI/UX ve performans odaklıyım<br/>
-    💎 Kullanıcıya değil, <strong>deneyime</strong> kod yazıyorum<br/>
-    🧠 Sürekli öğrenme ve paylaşma aşığı<br/>
-    ☕ Kod kahveyle güzeldir, çay da olur<br/>
-    📫 Bana ulaş: <strong>your-email@example.com</strong>
+  
   </p>
 </div>
 
